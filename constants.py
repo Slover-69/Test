@@ -11,7 +11,7 @@ BLUE = (0, 0, 255) # Added for potential score display or other UI elements
 
 # Game specific
 BLOCK_SIZE = 20
-SPEED = 15 # Frames per second
+SPEED = 10 # Frames per second (Reduced from 15 for slower snake)
 INITIAL_SNAKE_LENGTH = 3
 
 # Directions (using tuples for coordinates is common in Pygame)
